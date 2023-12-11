@@ -672,6 +672,7 @@ screen and (min-device-pixel-ratio: 2) and (max-width: 767px) {
     cursor: pointer;
     margin-right: 8px;
     fill: transparent;
+    flex-shrink: 0;
 }
 
 .review-form-checkbox-wrapper {
