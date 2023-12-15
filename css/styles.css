@@ -808,7 +808,7 @@ screen and (min-device-pixel-ratio: 2) and (max-width: 767px) {
 .dark-bg {
     background-color: #2E2F42;
     flex-shrink: 0;
-    padding: 112px 136px;
+    padding: 112px 0px;
     background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)), url(../images/tablet/Office-tablet.jpg);
     background-repeat: no-repeat;
     background-position: center;
